@@ -2,7 +2,7 @@ This is a machine learning classification problem to analyse and predcit prossib
 
 The dataset collected from https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset?resource=download
 
-About the dataset
+---------About the dataset-----------
 
 Age : Age of the patient
 
