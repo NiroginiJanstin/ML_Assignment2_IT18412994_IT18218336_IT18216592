@@ -1,6 +1,8 @@
-This is a machine learning classification problem to analyse and predcit prossiblity of heart attack
+## Heart Attack Prediction Using SVM Algorithm (ML)
 
-The dataset collected from https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset?resource=download
+This is a classification problem with a range of input features as parameters and a binary target variable for predicting whether or not heart disease exists.
+
+The project included a heart attack prediction study as well as thorough data processing of the dataset. Then, using SVM, a machine learning model was built and predictions were made. This is collab notebook code and the dataset used from Kaggle.
 
 ---------About the dataset-----------
 
@@ -32,3 +34,6 @@ Value 2: showing probable or definite left ventricular hypertrophy by Estes' cri
 thalach : maximum heart rate achieved
 
 target : 0= less chance of heart attack 1= more chance of heart attack
+
+
+Data set : https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset?resource=download
