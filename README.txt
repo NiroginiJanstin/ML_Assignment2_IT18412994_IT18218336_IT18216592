@@ -1,4 +1,4 @@
-## Heart Attack Prediction Using SVM Algorithm (ML)
+# Heart Attack Prediction Using SVM Algorithm (ML)
 
 This is a classification problem with a range of input features as parameters and a binary target variable for predicting whether or not heart disease exists.
 
