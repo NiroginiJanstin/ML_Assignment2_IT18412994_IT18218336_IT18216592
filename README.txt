@@ -1,34 +1,38 @@
-This is a machine learning classification problem to analyse and predcit prossiblity of heart attack
+# Heart Attack Prediction Using SVM Algorithm (ML)
 
-The dataset collected from https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset?resource=download
+This is a classification problem with a range of input features as parameters and a binary target variable for predicting whether or not heart disease exists.
+
+The project included a heart attack prediction study as well as thorough data processing of the dataset. Then, using SVM, a machine learning model was built and predictions were made. This is collab notebook code and the dataset used from Kaggle.
 
 ---------About the dataset-----------
 
-Age : Age of the patient
+1. age - age in years
 
-Sex : Sex of the patient
+2. sex - sex (1 = male; 0 = female)
 
-exang: exercise induced angina (1 = yes; 0 = no)
+3. cp - chest pain type (1 = typical angina; 2 = atypical angina; 3 = non-anginal pain; 0 = asymptomatic)
 
-ca: number of major vessels (0-3)
+4. trestbps - resting blood pressure (in mm Hg on admission to the hospital)
 
-cp : Chest Pain type chest pain type
+5. chol - serum cholestoral in mg/dl
 
-Value 1: typical angina
-Value 2: atypical angina
-Value 3: non-anginal pain
-Value 4: asymptomatic
-trtbps : resting blood pressure (in mm Hg)
+6. fbs - fasting blood sugar > 120 mg/dl (1 = true; 0 = false)
 
-chol : cholestoral in mg/dl fetched via BMI sensor
+7. restecg - resting electrocardiographic results (1 = normal; 2 = having ST-T wave abnormality; 0 = hypertrophy)
 
-fbs : (fasting blood sugar > 120 mg/dl) (1 = true; 0 = false)
+8. thalach - maximum heart rate achieved
 
-rest_ecg : resting electrocardiographic results
+9. exang - exercise induced angina (1 = yes; 0 = no)
 
-Value 0: normal
-Value 1: having ST-T wave abnormality (T wave inversions and/or ST elevation or depression of > 0.05 mV)
-Value 2: showing probable or definite left ventricular hypertrophy by Estes' criteria
-thalach : maximum heart rate achieved
+10. oldpeak - ST depression induced by exercise relative to rest
 
-target : 0= less chance of heart attack 1= more chance of heart attack
+11. slp - the slope of the peak exercise ST segment (2 = upsloping; 1 = flat; 0 = downsloping)
+
+12. ca - number of major vessels (0-3) colored by flourosopy
+
+13. thal - 2 = normal; 1 = fixed defect; 3 = reversable defect
+
+14. output - 0= less chance of heart attack 1= more chance of heart attack
+
+
+Data set : https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset?resource=download
