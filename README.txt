@@ -1,38 +1,7 @@
-# Heart Attack Prediction Using SVM Algorithm (ML)
+# Student online education adaptability level prediction using SVM(ML)
 
-This is a classification problem with a range of input features as parameters and a binary target variable for predicting whether or not heart disease exists.
+This is a classification problem with a range of input features as parameters and a binary target variable for predicting student adaptability level of online education.
 
-The project included a heart attack prediction study as well as thorough data processing of the dataset. Then, using SVM, a machine learning model was built and predictions were made. This is collab notebook code and the dataset used from Kaggle.
+The project included a student adaptability level prediction as well as thorough data processing of the dataset. Using SVM, a machine learning model was built and predictions were made. This is collab notebook code and the dataset used from Kaggle.
 
----------About the dataset-----------
-
-1. age - age in years
-
-2. sex - sex (1 = male; 0 = female)
-
-3. cp - chest pain type (1 = typical angina; 2 = atypical angina; 3 = non-anginal pain; 0 = asymptomatic)
-
-4. trestbps - resting blood pressure (in mm Hg on admission to the hospital)
-
-5. chol - serum cholestoral in mg/dl
-
-6. fbs - fasting blood sugar > 120 mg/dl (1 = true; 0 = false)
-
-7. restecg - resting electrocardiographic results (1 = normal; 2 = having ST-T wave abnormality; 0 = hypertrophy)
-
-8. thalach - maximum heart rate achieved
-
-9. exang - exercise induced angina (1 = yes; 0 = no)
-
-10. oldpeak - ST depression induced by exercise relative to rest
-
-11. slp - the slope of the peak exercise ST segment (2 = upsloping; 1 = flat; 0 = downsloping)
-
-12. ca - number of major vessels (0-3) colored by flourosopy
-
-13. thal - 2 = normal; 1 = fixed defect; 3 = reversable defect
-
-14. output - 0= less chance of heart attack 1= more chance of heart attack
-
-
-Data set : https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset?resource=download
+Data set : https://www.kaggle.com/datasets/mdmahmudulhasansuzan/students-adaptability-level-in-online-education?resource=download
